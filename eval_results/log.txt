@@ -1,0 +1,42 @@
+[2024-09-04 00:15:46,621::evaluate::INFO] Load generated data done! sample_id[0:99] examples for evaluation.
+[2024-09-04 00:19:13,565::evaluate::INFO] Load generated data done! sample_id[0:99] examples for evaluation.
+[2024-09-04 00:20:35,554::evaluate::INFO] Load generated data done! sample_id[0:99] examples for evaluation.
+[2024-09-04 00:37:12,976::evaluate::INFO] Load generated data done! sample_id[0:99] examples for evaluation.
+[2024-09-04 00:39:52,629::evaluate::INFO] Load generated data done! sample_id[0:99] examples for evaluation.
+[2024-09-04 00:43:36,921::evaluate::INFO] Load generated data done! sample_id[0:99] examples for evaluation.
+[2024-09-04 18:20:45,119::evaluate::INFO] Evaluate done! 10000 samples in total.
+[2024-09-04 18:20:45,119::evaluate::INFO] mol_stable:	0.2460
+[2024-09-04 18:20:45,119::evaluate::INFO] atm_stable:	0.9053
+[2024-09-04 18:20:45,119::evaluate::INFO] recon_success:	0.9764
+[2024-09-04 18:20:45,119::evaluate::INFO] eval_success:	0.9230
+[2024-09-04 18:20:45,119::evaluate::INFO] complete:	0.9236
+[2024-09-04 18:20:45,202::evaluate::INFO] JS bond distances of complete mols: 
+[2024-09-04 18:20:45,202::evaluate::INFO] JSD_6-6|4:	0.3349
+[2024-09-04 18:20:45,202::evaluate::INFO] JSD_6-6|1:	0.4044
+[2024-09-04 18:20:45,203::evaluate::INFO] JSD_6-8|1:	0.3297
+[2024-09-04 18:20:45,203::evaluate::INFO] JSD_6-7|1:	0.2840
+[2024-09-04 18:20:45,203::evaluate::INFO] JSD_6-8|2:	0.3998
+[2024-09-04 18:20:45,203::evaluate::INFO] JSD_6-6|2:	0.2600
+[2024-09-04 18:20:45,203::evaluate::INFO] JSD_6-7|4:	0.2617
+[2024-09-04 18:20:45,203::evaluate::INFO] JSD_6-7|2:	0.3056
+[2024-09-04 18:20:46,039::evaluate::INFO] JSD_CC_2A:	0.3009
+[2024-09-04 18:20:46,039::evaluate::INFO] JSD_All_12A:	0.0754
+[2024-09-04 18:20:46,039::evaluate::INFO] Atom type JS: 0.1058
+[2024-09-04 18:20:46,138::evaluate::INFO] Number of reconstructed mols: 9764, complete mols: 9236, evaluated mols: 9230
+[2024-09-04 18:20:46,145::evaluate::INFO] QED:   Mean: 0.522 Median: 0.538
+[2024-09-04 18:20:46,146::evaluate::INFO] SA:    Mean: 0.537 Median: 0.540
+[2024-09-04 18:20:46,156::evaluate::INFO] Vina Score:  Mean: -6.361 Median: -7.329
+[2024-09-04 18:20:46,158::evaluate::INFO] Vina Min  :  Mean: -7.467 Median: -7.706
+[2024-09-04 18:20:46,164::evaluate::INFO] Vina Dock :  Mean: -8.549 Median: -8.599
+[2024-09-04 18:20:46,167::evaluate::INFO] ring size: 3 ratio: 0.000
+[2024-09-04 18:20:46,167::evaluate::INFO] ring size: 4 ratio: 0.042
+[2024-09-04 18:20:46,168::evaluate::INFO] ring size: 5 ratio: 0.621
+[2024-09-04 18:20:46,168::evaluate::INFO] ring size: 6 ratio: 0.818
+[2024-09-04 18:20:46,169::evaluate::INFO] ring size: 7 ratio: 0.439
+[2024-09-04 18:20:46,169::evaluate::INFO] ring size: 8 ratio: 0.126
+[2024-09-04 18:20:46,169::evaluate::INFO] ring size: 9 ratio: 0.048
+[2024-09-06 17:01:16,435::evaluation_overall::INFO] the num of results.pt is 1.
+[2024-09-06 17:12:15,812::evaluation_overall::INFO] the num of results.pt is 1.
+[2024-09-06 17:12:53,418::evaluation_overall::INFO] the num of results.pt is 1.
+[2024-09-06 17:13:14,285::evaluation_overall::INFO] the num of results.pt is 1.
+[2024-09-06 17:14:05,816::evaluation_overall::INFO] the num of results.pt is 1.
